@@ -88,3 +88,12 @@ lspci -v
 ```
    
 # Run Jupyter Notebook Tutorials   
+1. After successful installation, change the launch_notebooks.sh script to executable and run the launcher script as shown here:
+```shell
+cd edge-insights-vision
+chmod +x launch_notebooks.sh
+./launch_notebooks.sh
+```
+
+2. Open your browser and paste the URL with token   
+3. you can try tutorials 001-hello-world and 108-gpu-device   
