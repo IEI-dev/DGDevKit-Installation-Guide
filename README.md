@@ -9,3 +9,7 @@ link: https://github.com/intel/edge-insights-vision
 OS(ubuntu-iot 22.04 desktop):
 link: https://ubuntu.com/download/iot/intel-iot
 
+# Flash OS   
+Download below iso and flash xm811 OS to ubuntu-iot 22.04   
+OS(ubuntu-iot 22.04 desktop):   
+link: https://ubuntu.com/download/iot/intel-iot   
