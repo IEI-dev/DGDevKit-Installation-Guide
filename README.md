@@ -9,4 +9,4 @@ link: https://github.com/intel/edge-insights-vision
 OS(ubuntu-iot 22.04 desktop):
 link: https://ubuntu.com/download/iot/intel-iot
 
-![image](https://gitlab.ieiworld.com/deepwork/dgdevkit-installation-guide/blob/master/image/intel-iot.png)
+![image](https://www.ieiworld.com/_project/header_menu_2023/_img/v3_IEI_Logo.svg)
