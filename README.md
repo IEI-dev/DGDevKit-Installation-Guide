@@ -1,13 +1,13 @@
 # DGDevKit Installation Guide
 
-Tank-XM811 + A40
-HW: https://www.ieiworld.com/en/product-ns/model.php?II=2
+Tank-XM811 + A40   
+HW: https://www.ieiworld.com/en/product-ns/model.php?II=2   
 
-OS(ubuntu-iot 22.04 desktop):
-link: https://ubuntu.com/download/iot/intel-iot
+OS(ubuntu-iot 22.04 desktop):   
+link: https://ubuntu.com/download/iot/intel-iot   
     
 GPU Driver:   
-link: https://github.com/intel/edge-insights-vision
+link: https://github.com/intel/edge-insights-vision   
    
 OpenVINO tutorials:   
 link: https://github.com/openvinotoolkit/openvino_notebooks
