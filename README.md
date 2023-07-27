@@ -15,7 +15,6 @@ link: https://github.com/openvinotoolkit/openvino_notebooks
 # Flash OS   
 1. Download below iso file and flash OS(ubuntu-iot 22.04 desktop) images onto pen drive    
 link: https://ubuntu.com/download/iot/intel-iot    
-      ![image](/uploads/813652a90b8d228340d24fe902a0e4eb/image.png)
       ![image](./image/1.png)    
 2. insert the pen drive into the USB port    
 3. press 'del' and power-on, will boot BIOS  
