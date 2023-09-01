@@ -23,8 +23,8 @@ link: https://ubuntu.com/download/iot/intel-iot
 ![image](./image/3.png) 
 5. setup boot priority, BIOS setting -> boot -> boot1-USB(UEFI...)   
 ![image](./image/4.png) 
-![image](./image/5.png) 
-![image](./image/6.png) 
+![image](./image/5.jpg) 
+![image](./image/6.jpg) 
 6. save and reboot, install ubuntu    
 7. when install finish, you can use below command to validate ubuntu version
 ```shell
